@@ -2,7 +2,7 @@
 Title: About
 Revision: 001
 documentDateDisplay: Tobacco Control Playbook
-HeaderImage: https://unsplash.com/photos/le60j2br1BI
+HeaderImage: le60j2br1BI
 ---
 
 

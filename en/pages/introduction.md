@@ -2,7 +2,7 @@
 Title: Introduction
 Revision: 001
 documentDateDisplay: Tobacco Control Playbook
-HeaderImage: /lib/introduction
+HeaderImage: introduction
 ---
 
 ### Introduction

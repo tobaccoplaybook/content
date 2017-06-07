@@ -2,7 +2,7 @@
 Title: "О проекте"
 Revision: 001
 documentDateDisplay: "Сборник аргументов"
-coverImageHref: https://source.unsplash.com/le60j2br1BI/1600x900
+HeaderImage: le60j2br1BI
 ---
 
 
